@@ -5,9 +5,6 @@ In Linux just run command (you need to install Qt):
 <code> ./gasblender </code>
 
 In case you want to compile it from source:<br>
-<code>
-qmake -project<br>
-qmake <br>
-make
-</code>
-
+<code>qmake -project</code><br>
+<code>qmake </code><br>
+<code>make</code>

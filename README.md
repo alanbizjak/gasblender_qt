@@ -1,6 +1,8 @@
 # gasblender_qt
 Mixing diving gases using ideal gas equation or gerg2004 model. <br>
 
+<img src="/images/gasblender.jpg" alt="screenshot">
+
 In Linux just run command (you need to install Qt):
 <code> ./gasblender </code>
 

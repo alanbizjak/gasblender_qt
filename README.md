@@ -3,10 +3,12 @@ Mixing diving gases using ideal gas equation or gerg2004 model. <br>
 
 <img src="/images/gasblender.jpg" alt="screenshot">
 
-In Linux just run command (you need to install Qt):
-<code> ./gasblender </code>
+You need to have qt4-qmake and libqt4-dev installed in your system.
 
-In case you want to compile it from source:<br>
-<code>qmake -project</code><br>
-<code>qmake </code><br>
+Compile it from source (you need to install QT4):<br>
+<code>qmake-qt4 -project</code><br>
+<code>qmake-qt4 </code><br>
 <code>make</code>
+
+Run it:
+<code> ./gasblender </code>

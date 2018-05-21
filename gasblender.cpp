@@ -1,10 +1,12 @@
 #include <QtGui>
-//#include <QDesktopServices>
+#include <QMessageBox>
+
 
 #include "gasblender.h"
 #include "costsdialog.h"
 #include "globalvar.h"
 #include "gerg2004.h"
+
 
 GasBlender::GasBlender(QWidget *parent)
   : QMainWindow(parent)

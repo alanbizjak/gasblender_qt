@@ -10,4 +10,4 @@ Compile it from source (you need to install Qt):<br>
 <code>make</code>
 
 Run it:
-<code> ./gasblender </code>
+<code> ./gasblender_qt </code>

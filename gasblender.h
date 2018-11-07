@@ -67,7 +67,7 @@ private:
  
   double f_Hei,f_O2i,f_N2i,f_Hef,f_O2f,f_N2f,f_O2fill;
   double P_f,P_i,nf,ni;
-  static const double eps = 1E-14;
+  static constexpr double eps = 1E-14;
 };
 
 #endif
